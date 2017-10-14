@@ -1,0 +1,16 @@
+{
+    "rss_feeds": [
+        {
+            "feed": {
+                "title":"Erma",
+                "address": "https://tapas.io/rss/series/23931"
+            }
+        },
+        {
+            "feed": {
+                "title": "C Cassandra",
+                "address": "https://tapas.io/rss/series/35182"
+            }
+        }
+    ]
+}
